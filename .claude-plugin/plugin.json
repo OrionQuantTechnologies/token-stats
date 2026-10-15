@@ -1,0 +1,9 @@
+{
+  "name": "token-stats",
+  "version": "0.1.0",
+  "description": "Zeigt den Token-Verbrauch (Heute, 7 Tage, 30 Tage, Gesamt) aus den lokalen Claude-Code-Verläufen, als Karte bei neuem Chat und mit /tokens.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "OfficeLassy"
+  }
+}

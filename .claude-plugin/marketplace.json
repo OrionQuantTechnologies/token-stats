@@ -1,0 +1,13 @@
+{
+  "name": "token-stats-local",
+  "description": "Lokaler Marketplace für das Plugin token-stats (Token-Verbrauch in Claude Code).",
+  "owner": {
+    "name": "OfficeLassy"
+  },
+  "plugins": [
+    {
+      "name": "token-stats",
+      "source": "./"
+    }
+  ]
+}
